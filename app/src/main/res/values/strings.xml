@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aisatsu</string>
+    <string name="hello_world">もしもしワルド！</string>
+    <string name="gambar">Gambar</string>
+    <string name="mainbanner">mainBanner</string>
+    <string name="percakapan">Percakapan</string>
+    <string name="percakapanbtn">percakapanBtn</string>
+    <string name="salam_pertemuan">Salam Pertemuan</string>
+    <string name="askbtn">askBtn</string>
+    <string name="menanyakan_kabar">Menanyakan Kabar</string>
+    <string name="perpisahan">Perpisahan</string>
+    <string name="perpisahanimg">perpisahanImg</string>
+    <string name="permintaan_maaf">Permintaan Maaf</string>
+    <string name="apologizeimg">apologizeImg</string>
+    <string name="textview">TextView</string>
+    <string name="congratsimg">congratsImg</string>
+    <string name="ucapan_selamat">Ucapan Selamat</string>
+    <string name="todo">TODO</string>
+    <string name="header">Header</string>
+    <string name="iconheader">iconHeader</string>
+    <string name="judulpertemuan">Ucapan Pertemuan</string>
+    <string name="txtjudul1">txtjudul1</string>
+</resources>
